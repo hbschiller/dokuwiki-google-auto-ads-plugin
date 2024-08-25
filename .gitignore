@@ -1,1 +1,8 @@
-﻿.idea/
+﻿# Ignore JetBrains IDE settings
+.idea/
+
+# Ignore other common files and folders
+node_modules/
+vendor/
+*.log
+*.env
