@@ -4,4 +4,4 @@ email hb@schiller.app
 date 2024-08-25
 name Google Auto Ads Plugin
 desc Adds Google Auto Ads scripts to the DokuWiki template.
-url https://schiller.app
+url https://www.dokuwiki.org/plugin:gautoads
